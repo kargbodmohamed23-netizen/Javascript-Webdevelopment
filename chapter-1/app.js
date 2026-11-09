@@ -1,5 +1,5 @@
 // printing Hello word
-console.log ("Hello word! Iam learning Javascript");
+console.log ("Hello word ! I am learning Javascript");
 let studentName = "Amadu Bademba Jagitay";
 var age = 50;
 const gender = "male";

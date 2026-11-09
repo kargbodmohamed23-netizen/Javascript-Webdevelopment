@@ -38,6 +38,8 @@ if (boughtOfprice >= 10000) {
   console.log("Thank you for doing business with us");
 }
    
+console.log('****************************************');
+
 
 
 let email = "amadu@lenosol.com"

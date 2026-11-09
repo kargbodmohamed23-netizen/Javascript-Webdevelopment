@@ -17,7 +17,7 @@ if (grade >= 90){
     
     
 
-let day = 1
+let day = 7
 if(day === 1){
     console.log('Sunday');
  
@@ -49,7 +49,7 @@ console.log('********************************************');
 
 
 
-let month = 1
+let month = 12
 if(month === 1 ){
     console.log('January');
     
@@ -84,7 +84,7 @@ if(month === 1 ){
     console.log('November');
     
 } else if(month === 12){
-    console.log('ecember');
+    console.log('december');
     
 } else{
     console.log('no month found');
