@@ -12,27 +12,22 @@ const student = {
 
 }
 
-
-
 //  printing the object 
 console.log(student);
 // Accessing a property of an object
 console.log(student.photo);
 
+console.log("*****************************");
+
 // UPDATING AN ATTRIBUTEIN AN OBJECT
 student. occupation = "Website Designer"
 console.log(student);
-
 
 // Adding a new property to the object
 student.gender = "Male"
 console.log(student);
 
-console.log("#####################################")
-
-
-
-
+console.log("*************************")
 
 
 const citizen = {
@@ -44,7 +39,12 @@ dateofBirth: "2002-05-15"
 }
 
 // PRINTING THE OBJECT OF THE JS TEMPLATE LITERRAL
+
+
+
 console.log(`*********** SIERRA LEONE NATIONAL ID CARD********`);
+
+
 console.log(`firstname: ${citizen.firstName}`);
 console.log(`lastname: ${citizen.lastName}`);
 console.log(`nationality: ${citizen.nationality}`);

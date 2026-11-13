@@ -17,12 +17,7 @@ if (grade >=50){
 }
 
 
-
-
-
-
 console.log("*******************************");
-
 
 
 let boughtOfprice = 12000;
@@ -41,7 +36,6 @@ if (boughtOfprice >= 10000) {
 console.log('****************************************');
 
 
-
 let email = "amadu@lenosol.com"
 password = 234433
 
@@ -55,7 +49,6 @@ if(email ==="admin@lenosol.com" || password === 123456){
   }
     
     
- 
 } else {
   console.log(`Wrong password`);
   

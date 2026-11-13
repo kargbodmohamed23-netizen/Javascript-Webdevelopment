@@ -16,3 +16,10 @@ console.log(iD);
 
 
 
+// concentation 
+let sentence = "I leave at " + village  + 
+" and  " + taxPay + " are " +  religion + 
+" they belong " + compulsory + " at matando " + gavebirth + " and my code is  " + iD
+console.log(sentence);
+
+
